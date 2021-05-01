@@ -1,0 +1,10 @@
+Factorial of n is the product of all positive descending integers. Factorial of n is denoted by n!
+
+example 5!
+5*4*3*2*1=120
+
+how to understand code:
+
+STEP 1: apply for loop and loop with 1*n
+
+STEP 2: Display the result
