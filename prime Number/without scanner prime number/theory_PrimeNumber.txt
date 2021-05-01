@@ -1,0 +1,23 @@
+A prime number that is divisible only by itself and 1 (e.g. 2, 3, 5, 7, 11).
+
+example 
+
+4 is not prime because
+4 have two way
+
+can be divide by 2 
+
+3 is prime because 
+3 cant divide with any number
+
+How to understand in program
+
+STEP 1:  Check if number is less than or equal to 1
+
+STEP 2:  Check if number is 2
+
+STEP 3:  Check if n is a multiple of 2
+
+STEP 4:  If not, then just check the odds
+
+STEP 5:  Set the result 
